@@ -1,0 +1,6 @@
+E:\Work\C#\Console\CourseExam\CourseExam\bin\Debug\CourseExam.exe.config
+E:\Work\C#\Console\CourseExam\CourseExam\bin\Debug\CourseExam.exe
+E:\Work\C#\Console\CourseExam\CourseExam\bin\Debug\CourseExam.pdb
+E:\Work\C#\Console\CourseExam\CourseExam\obj\Debug\CourseExam.csprojResolveAssemblyReference.cache
+E:\Work\C#\Console\CourseExam\CourseExam\obj\Debug\CourseExam.exe
+E:\Work\C#\Console\CourseExam\CourseExam\obj\Debug\CourseExam.pdb
